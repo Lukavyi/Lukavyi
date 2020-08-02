@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Traverz AI Platform
+- 💬 Ask me about React.js
+- 📫 How to reach me: lukavyi@me.com
+
 <!--
 **Lukavyi/Lukavyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
